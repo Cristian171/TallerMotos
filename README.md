@@ -1,5 +1,6 @@
 # Examen NO 2
 De la Materia Scriting De la Universidad Pontificia Bolivariana.
+
 # TallerMotos 
 El examen consiste en un juego de carreras de motos que se centrará en la personalización de los componentes para mejorar los parámetros del vehículo Como:
 - Muffler
@@ -7,26 +8,58 @@ El examen consiste en un juego de carreras de motos que se centrará en la perso
 - FrontWheel
 - Chassis
 
-# Parametros a seguir
-- Las motos tienen los siguientes parámetros:
-Speed: Velocidad máxima de la moto
-Acceleration: Factor de aceleración de la moto
-Handling: Facilidad para maniobrar la moto.
-Grip: Agarre del vehículo en superficies.
-Falta motor: Speed será 0.0
-Falta cualquiera de las llantas: Acceleration será 0.0
-Faltan ambas llantas: Handling será 0.0, Grip será 0.0
-Falta mofle: Acceleration se divide a la mitad.
-Las partes pueden modificar uno o más parámetros de la moto, pero se excluyen algunos según la parte - esto es, las partes no modifican parámetros según sigue:
-El motor no modificará nunca Grip.
-El mofle no modificará nunca Speed, Handling, Grip
-El chasis no modifica ningún parámetro.
-Las llantas pueden modificar todos los parámetros.
-Los valores que agrega cada parte a cada parámetro no pueden ser superiores a 5.0, y, en total no puede agregar más de 10.0 puntos sumando todos los parámetros que modifique.
-Durante la construcción de cada parte se debe garantizar que la regla anterior se satisfaga.
-Una vez que la moto esté completa, al equipar una parte nueva, la parte nueva debe reemplazar a la anterior.
-El total de cada parámetro será la suma del valor que cada parte agregue a dicho parámetro más el valor inicial por estar completa (ej. Speed = 1.0 + frontWheelSpeed + backWheelSpeed + engineSpeed).
-Se le ha pedido implementar el entorno de pruebas unitarias para diversas funcionalidades del juego De momento, nos centraremos en las características de las motos.
+# Requisitos Funcionales del Proyecto "Motos Personalizables"
+
+El proyecto "Motos Personalizables" tiene los siguientes requisitos funcionales que deben ser probados:
+
+## Personalización de Componentes de las Motos
+
+Cada moto Bike debe tener una serie de componentes personalizables, que incluyen:
+
+- FrontWheel: Llanta delantera.
+- BackWheel: Llanta trasera.
+- Chassis: Chasis.
+- Engine: Motor.
+- Muffler: Mofle.
+
+Las motos deben tener todas estas partes para poder ser usadas en una carrera.
+
+## Parámetros de las Motos
+
+Las motos deben tener los siguientes parámetros:
+
+- Speed: Velocidad máxima de la moto.
+- Acceleration: Factor de aceleración de la moto.
+- Handling: Facilidad para maniobrar la moto.
+- Grip: Agarre del vehículo en superficies.
+
+Cada parámetro se encuentra en una escala de 0.0 a 10.0, donde 0.0 representa el valor mínimo y 10.0 el valor máximo.
+
+## Reglas para la Completitud de las Motos
+
+- En ningún caso, una moto puede no tener chasis.
+- No puede existir ningún chasis fuera de una moto.
+- Los valores iniciales de los parámetros de una moto completa son 1.0.
+- En caso de faltar algún componente, se aplican las siguientes reglas:
+  - Falta motor: Speed será 0.0.
+  - Falta cualquiera de las llantas: Acceleration será 0.0.
+  - Faltan ambas llantas: Handling será 0.0, Grip será 0.0.
+  - Falta mofle: Acceleration se divide a la mitad.
+
+## Modificaciones de Parámetros por Partes
+
+- Las partes pueden modificar uno o más parámetros de la moto, excluyendo algunos según la parte.
+- El motor nunca modificará Grip.
+- El mofle nunca modificará Speed, Handling, o Grip.
+- El chasis no modifica ningún parámetro.
+- Las llantas pueden modificar todos los parámetros.
+- Los valores que agrega cada parte a cada parámetro no pueden ser superiores a 5.0.
+- El total de modificaciones por parte no puede superar 10.0 puntos, sumando todos los parámetros modificados.
+
+## Equipamiento de Partes
+
+- Una vez que la moto esté completa, al equipar una parte nueva, la parte nueva debe reemplazar a la anterior.
+- El total de cada parámetro será la suma del valor que cada parte agregue a dicho parámetro más el valor inicial por estar completa (ej. Speed = 1.0 + frontWheelSpeed + backWheelSpeed + engineSpeed).
 
 
 # ID
