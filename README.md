@@ -8,19 +8,11 @@ El examen consiste en un juego de carreras de motos que se centrará en la perso
 - Chassis
 
 # Parametros a seguir
-* Cada moto Bike tiene una serie de componentes que se pueden personalizar:
-
-Las motos deben tener todas esas partes para poder ser usadas en una carrera.
-Las motos tienen los siguientes parámetros:
+- Las motos tienen los siguientes parámetros:
 Speed: Velocidad máxima de la moto
 Acceleration: Factor de aceleración de la moto
 Handling: Facilidad para maniobrar la moto.
 Grip: Agarre del vehículo en superficies.
-En ningún caso, una moto puede no tener chasis. Al tiempo, no puede existir ningún chasis fuera de una moto.
-Los valores de cada parámetro estarán dados en una escala análoga de 0.0 a 10.0, donde 0.0 representa el menor valor y 10.0 el máximo.
-En ningún caso, una moto completa puede tener ninguno de sus parámetros en 0.0.
-Cuando una moto está completa, el valor inicial de todos sus parámetros es 1.0
-En caso de faltar algún componente, se deben satisfacer las siguientes reglas:
 Falta motor: Speed será 0.0
 Falta cualquiera de las llantas: Acceleration será 0.0
 Faltan ambas llantas: Handling será 0.0, Grip será 0.0
