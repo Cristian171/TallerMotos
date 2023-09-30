@@ -8,12 +8,8 @@ El examen consiste en un juego de carreras de motos que se centrará en la perso
 - Chassis
 
 # Parametros a seguir
-Cada moto Bike tiene una serie de componentes que se pueden personalizar:
-FrontWheel - Llanta delantera.
-BackWheel - Llanta trasera.
-Chassis - Chasis
-Engine - Motor
-Muffler - Mofle
+* Cada moto Bike tiene una serie de componentes que se pueden personalizar:
+
 Las motos deben tener todas esas partes para poder ser usadas en una carrera.
 Las motos tienen los siguientes parámetros:
 Speed: Velocidad máxima de la moto
