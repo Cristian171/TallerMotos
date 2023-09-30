@@ -52,5 +52,5 @@ Cada parámetro se encuentra en una escala de 0.0 a 10.0, donde 0.0 representa e
 
 # ID
 - [Cristian Usuga 000467982](https://github.com/Cristian171)
-- [Jhonier Mosquera]. 000369010(https://github.com/quertuy)
+- [Jhonier Mosquera 000369010](https://github.com/quertuy)
  
