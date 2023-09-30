@@ -12,5 +12,5 @@ Examen #2 de la Materia Scriting De la Universidad Pontificia Bolivariana. El ex
 
 # ID
 - [Cristian Usuga](https://github.com/Cristian171)
-- [Jhonier Mosquera](https://github.com/Cristian171)
+- [Jhonier Mosquera](https://github.com/quertuy)
  
