@@ -3,15 +3,6 @@ De la Materia Scriting De la Universidad Pontificia Bolivariana.
 
 # TallerMotos 
 El examen consiste en un juego de carreras de motos que se centrará en la personalización de los componentes para mejorar los parámetros del vehículo Como:
-- Muffler
-- BackWheel
-- FrontWheel
-- Chassis
-  
-
-## Personalización de Componentes de las Motos
-
-Cada moto Bike debe tener una serie de componentes personalizables, que incluyen:
 
 - FrontWheel: Llanta delantera.
 - BackWheel: Llanta trasera.
