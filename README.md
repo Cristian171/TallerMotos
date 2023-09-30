@@ -30,6 +30,6 @@ Se le ha pedido implementar el entorno de pruebas unitarias para diversas funcio
 
 
 # ID
-- [Cristian Usuga](https://github.com/Cristian171)
+- [Cristian Usuga 000467982](https://github.com/Cristian171)
 - [Jhonier Mosquera](https://github.com/quertuy)
  
