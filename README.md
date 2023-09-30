@@ -6,7 +6,7 @@ El examen consiste en un juego de carreras de motos que se centrará en la perso
 - Muffler
 - BackWheel
 - FrontWheel
-- Chassis}
+- Chassis
   
 
 ## Personalización de Componentes de las Motos
