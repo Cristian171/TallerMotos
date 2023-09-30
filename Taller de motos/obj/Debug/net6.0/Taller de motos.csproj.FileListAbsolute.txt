@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\bin\Debug\net6.0\Taller de motos.exe
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\bin\Debug\net6.0\Taller de motos.deps.json
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\bin\Debug\net6.0\Taller de motos.runtimeconfig.json
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\bin\Debug\net6.0\Taller de motos.dll
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\bin\Debug\net6.0\Taller de motos.pdb
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\Taller de motos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\Taller de motos.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\Taller de motos.AssemblyInfo.cs
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\Taller de motos.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\Taller de motos.dll
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\refint\Taller de motos.dll
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\Taller de motos.pdb
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\Taller de motos.genruntimeconfig.cache
+C:\Users\crist\source\repos\Taller de motos\Taller de motos\obj\Debug\net6.0\ref\Taller de motos.dll
