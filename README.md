@@ -6,5 +6,8 @@ Examen #2 de la Materia Scriting De la Universidad Pontificia Bolivariana. El ex
 # Parametros a seguir
  se le ha pedido implementar el entorno de pruebas unitarias para diversas funcionalidades del juego De momento, nos centraremos en las características de las motos.
 
- #ID(https://github.com/Cristian171)
+ #ID
+ 
+-[Cristian Usuga](https://github.com/Cristian171)
+-[Jhonier Mosquera](https://github.com/Cristian171)
  
