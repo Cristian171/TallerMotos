@@ -6,11 +6,8 @@ El examen consiste en un juego de carreras de motos que se centrará en la perso
 - Muffler
 - BackWheel
 - FrontWheel
-- Chassis
-
-# Requisitos Funcionales del Proyecto "Motos Personalizables"
-
-El proyecto "Motos Personalizables" tiene los siguientes requisitos funcionales que deben ser probados:
+- Chassis}
+  
 
 ## Personalización de Componentes de las Motos
 
